@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - HTML, CSS
 - PHP
 - SQL
+
+#### ⚠ Most of my repositories are private
