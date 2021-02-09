@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Programming languages
+## Programming languages
 - Java
 - C#
 - HTML, CSS
