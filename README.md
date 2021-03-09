@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - SQL
 
 #### ⚠ Most of my repositories are private
+
+#### (I know that HTML and CSS aren't really programming languages lol)
